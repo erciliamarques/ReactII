@@ -1,9 +1,12 @@
 # ReactII
 Atividade Meu Portfólio da Reprograma - Semana 15 React-II
-Atividade feita no curso da Reprograma para exercitar React JS Logo-React
+Atividade feita no curso da Reprograma para exercitar React JS 
 
 Tecnologias Utilizadas:
-Logo-React Logo do Git Logo JavaScript Logo NPM Logo Vite
+React Git JavaScript  NPM Vite
+
+
+
 Revisão:
 Como preparar o ambiente e criar o projeto React com vite
 Componentes: O que são
